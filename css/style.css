@@ -1,0 +1,49 @@
+body{
+    background: rgb(0,244,144);
+    background: linear-gradient(90deg, rgba(0,244,144,1) 0%, rgba(0,187,201,1) 100%);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+h1{
+    font-family: 'Abril Fatface', cursive;
+}
+.navbar{
+    background: none;
+}
+
+.navbar a{
+    /*color: white;*/
+
+}
+
+.jumbotron{
+    background: none;
+}
+
+.drop-shadow{
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.153);
+}
+
+.lead{
+    color: white;
+    font-size: 2.2rem;
+}
+
+.btn-outline-light{
+    border-color: white;
+}
+
+.btn-outline-light:hover{
+    background-color: rgba(255, 255, 255, 0.201);
+}
+
+.card-body h5{
+    color: #00f69f;
+}
+
+.btn-primary, .btn-primary:hover{
+    background-color: #00bbc9;
+    border-color: #00bbc9;
+}
+
